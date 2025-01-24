@@ -1,5 +1,4 @@
 # Cloud-Height-Determination-with-Image-Analysis
-Cloud Height Measurement of Slurries Containing More Than One Type of Solid Particles by Image Analysis
 from openpyxl import Workbook
 import os
 from mpl_point_clicker import clicker
